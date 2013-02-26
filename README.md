@@ -5,8 +5,8 @@ This whole thing is based off this simple structure:<br>
 <strong>js fiddle -</strong> http://jsfiddle.net/sollenne/HE8LY/ <br>
 <strong>live example -</strong>  http://sollenne.com/projects/responsive-email/mycode.html
 
-<strong>Here is a live example of this template -</strong> http://sollenne.com/projects/responsive-email<br>
-It's based on a clearance email I was to design for work.
+<strong>Here is a live example of template 1 - </strong> http://sollenne.com/projects/responsive-email<br>
+<strong>Here is a live example of template 2 - </strong> http://sollenne.com/projects/responsive-email/index2.html<br>
 
 <hr>
 
