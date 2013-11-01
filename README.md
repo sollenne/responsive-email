@@ -22,7 +22,7 @@ This whole thing is based off this "simple" structure:<br>
 
 <strong>1.</strong> Quickly familiarize yourself with tables.
 	
-<strong>2.</strong> Not every email client supports <code>@media</code>
+<strong>2.</strong> Not every email client supports <code>@media</code>. In fact, most do not.
 
 <strong>3.</strong> Do not show/hide multiple divs with the same content intending to switch them out with media queries. Some emails will render both and you will look crazy. On the same note, don't have one complete email template for one size and another template for a different size expecting one to show and one to hide. Again, some emails will render both and you will look even crazier. Code as if everything you write will show up in an email, eving if you dont intend it to. 
 
@@ -48,6 +48,9 @@ I use http://www.colorzilla.com/gradient-editor/ for gradients and http://border
 
 <strong>12.</strong> <code>width="100%"</code> works fine but some email clients align this to the left even when using <code>align="center"</code>. You should declare a width on each table. Either way, you should be consistent. Make them all the same.
 
+<strong>13.</strong>Microsft Outlook needs special code for some things called VML. Here is a generator for background images and buttons with VML support. 
+• background images - http://emailbg.net/
+• buttons - http://emailbtn.net/
 <br>
 <br>
 <br>
