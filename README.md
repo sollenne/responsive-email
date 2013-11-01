@@ -26,9 +26,9 @@ This whole thing is based off this simple structure:<br>
 
 <strong>3.</strong> Do not show/hide multiple divs with the same content intending to switch them out with media queries. Some emails will render both and you will look crazy. On the same note, don't have one complete email template for one size and another template for a different size expecting one to show and one to hide. Again, some emails will render both and you will look even crazier. Code as if everything you write will show up in an email, eving if you dont intend it to. 
 
-<strong>4.</strong> Almost all styles need to be inline. The only exception is width and MAYBE a few others if you see they are working. 
+<strong>4.</strong> All styles need to be inline. The only exception is media queries 
 
-<strong>5.</strong> The more media queries you use, the more complicated it gets. I only have two and that was confusing enough. 
+<strong>5.</strong> The more media queries you use, the more complicated it gets. I only have one in these templates and that was confusing enough. 
 
 <strong>6.</strong> Images must be publicly hosted. Otherwise, Some email clients will render an error and some will just ignore images and display... NOTHINGNESS.
 
