@@ -39,12 +39,14 @@ This whole thing is based off this simple structure:<br>
 The page will most likely delete or replace your fancy html5 <code><!doctype html></code> or any doctype for that matter.
 
 <strong>9.</strong> Don't use html5, css3, js, jq, less, external stylesheets or anything fun or cool. (except <code>@media</code>)
+<strong>edit:</strong> I noticed gradients and border radius are working in most email clients these days. Use a generator so you get all that delicious modern browser support.
+I use http://www.colorzilla.com/gradient-editor/ for gradients and http://border-radius.com/ for border radius.
 
 <strong>10.</strong> Don't use Margins, Yahoo! and Hotmail don't like them. Don't use div's unless it's strictly for semantics (styles), just use a span tag in this case<br> (practice what I preach, not what I do).
 
-<strong>11.</strong> Style linked images with <code>style="border:none;"</code>
+<strong>11.</strong> Style linked images with <code>style="border:none;"</code> or <code>border="0"</code>
 
-<strong>12.</strong> <code>width="100%"</code> works fine but some email clients align this to the left. You should declare a width on each table. Either way, you should be consistent. Make them all the same.
+<strong>12.</strong> <code>width="100%"</code> works fine but some email clients align this to the left even when using <code>align="center"</code>. You should declare a width on each table. Either way, you should be consistent. Make them all the same.
 
 <br>
 <br>
