@@ -48,8 +48,8 @@ I use http://www.colorzilla.com/gradient-editor/ for gradients and http://border
 
 <strong>12.</strong> <code>width="100%"</code> works fine but some email clients align this to the left even when using <code>align="center"</code>. You should declare a width on each table. Either way, you should be consistent. Make them all the same.
 
-<strong>13.</strong>Microsft Outlook needs special code for some things called VML. Here is a generator for background images and buttons with VML support. 
-• background images - http://emailbg.net/
+<strong>13.</strong>Microsft Outlook needs special code for some things called VML. Here is a generator for background images and buttons with VML support. <br>
+• background images - http://emailbg.net/<br>
 • buttons - http://emailbtn.net/
 <br>
 <br>
