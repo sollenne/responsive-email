@@ -1,7 +1,7 @@
 <h1>HERE'S THE DIRTY TRUTH ABOUT RESPONSIVE EMAILS</h1>
 <hr>
 
-This whole thing is based off this simple structure:<br>
+This whole thing is based off this "simple" structure:<br>
 <strong>js fiddle -</strong> http://jsfiddle.net/sollenne/HE8LY/ <br>
 <strong>live example -</strong>  http://sollenne.com/lab/responsive-email/mycode.html
 
@@ -30,7 +30,7 @@ This whole thing is based off this simple structure:<br>
 
 <strong>5.</strong> The more media queries you use, the more complicated it gets. I only have one in these templates and that was confusing enough. 
 
-<strong>6.</strong> Images must be publicly hosted. Otherwise, Some email clients will render an error and some will just ignore images and display... NOTHINGNESS.
+<strong>6.</strong> Images obviously must be publicly hosted. 
 
 <strong>7.</strong> I use http://placehold.it for my placeholders I stongly recommend it. 
 
@@ -42,7 +42,7 @@ The page will most likely delete or replace your fancy html5 <code><!doctype htm
 <strong>edit:</strong> I noticed gradients and border radius are working in most email clients these days. Use a generator so you get all that delicious modern browser support.
 I use http://www.colorzilla.com/gradient-editor/ for gradients and http://border-radius.com/ for border radius.
 
-<strong>10.</strong> Don't use Margins, Yahoo! and Hotmail don't like them. Don't use div's unless it's strictly for semantics (styles), just use a span tag in this case<br> (practice what I preach, not what I do).
+<strong>10.</strong> Don't use Margins, Yahoo! and Hotmail don't like them. Don't use div's unless it's strictly for semantics (styles), just use a span tag in this case (practice what I preach, not what I do).
 
 <strong>11.</strong> Style linked images with <code>style="border:none;"</code> or <code>border="0"</code>
 
