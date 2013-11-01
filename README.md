@@ -55,7 +55,7 @@ I use http://www.colorzilla.com/gradient-editor/ for gradients and http://border
 <hr>
 
 <h2>HOW TO TEST</h2>
-<strong>So far, the easiest way is to use Safari and press Command+I. This will open a new email in your default email client.</strong>
+<strong>I am lucky enough to have access to Litmus https://litmus.com, however, this may be too expensive for the average bear. Alternatively you can use Safari and press Command+I (or whatever the equivelant is on a PC). This will open a new email in your default email client. Then just send it to as many emails as you can and test away. I would get your company to pay for Litmus though.</strong>
 
 <hr>
 
