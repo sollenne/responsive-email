@@ -116,6 +116,7 @@ I use http://www.colorzilla.com/gradient-editor/ for gradients and http://border
 <br>
 
 <hr>
+<h3>The MIT License</h3><br>
 Copyright (c) 2012 Rich Sollenne, Sollenne Technology LLC, Sollenne.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
