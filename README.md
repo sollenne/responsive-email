@@ -3,10 +3,10 @@
 
 This whole thing is based off this "simple" structure:<br>
 <strong>js fiddle -</strong> http://jsfiddle.net/sollenne/HE8LY/ <br>
-<strong>live example -</strong>  http://sollenne.com/lab/responsive-email/mycode.html
+<strong>live example -</strong>  http://sollenne.github.io/jcp/email/index3.html
 
-<strong>Here is a live example of template 1 - </strong> http://sollenne.com/lab/responsive-email<br>
-<strong>Here is a live example of template 2 - </strong> http://sollenne.com/lab/responsive-email/index2.html<br>
+<strong>Here is a live example of template 1 - </strong> http://sollenne.github.io/jcp/email/<br>
+<strong>Here is a live example of template 2 - </strong> http://sollenne.github.io/jcp/email/index2.html<br>
 
 <hr>
 
