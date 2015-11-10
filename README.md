@@ -8,6 +8,9 @@ This whole thing is based off this "simple" structure:<br>
 <strong>Here is a live example of template 1 - </strong> http://sollenne.github.io/jcp/email/<br>
 <strong>Here is a live example of template 2 - </strong> http://sollenne.github.io/jcp/email/index2.html<br>
 
+<strong>In Action - http://sollenne.github.io/m/emails/global_collect/thanks.html</strong><br>
+<strong>In Action 2 - http://sollenne.github.io/m/emails/rate_us/</strong><br>
+
 <hr>
 
 <strong>If you happen to test in another email environment or have an update or question, email me at rich@sollenne.com</strong> 
